@@ -28,11 +28,11 @@
   * Parkinson's Law
   * Basic Emergency Fund ($1,000)
   * Post-Debt Emergency Fund (3 to 6 months of Essential Expenses)
-  * Invest More (15% to 25% Gross Income)
-    * Index Funds (No Fee / No Load) vs. Managed Funds
-    * 401k (minimum to at least company match)
-    * Roth 401k
-    * Rollover funds from previous jobs to IRA
+* Invest More (15% to 25% Gross Income)
+  * Index Funds (No Fee / No Load) vs. Managed Funds
+  * 401k (minimum to at least company match)
+  * Roth 401k
+  * Rollover funds from previous jobs to IRA
 * Dream Big(ger)
 
 ## Disclaimer
