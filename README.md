@@ -122,7 +122,7 @@ or, just 10% of your credit allowance is utilized. There are only really two way
 If you increase your credit spending limit, even without a change in total debt, you can reduce your ratio by 20%:
 
 ```
-25,000/20,000 = .8
+20,000/25,000 = .8
 ```
 
 or 80% in credit utilization. This can have a positive effect on your overall credit score, which may help to lower interest rates in the long term. You might be asking yourself "Why would they give me more credit, if I'm already a credit risk?" This is because they are making a gamble that you will stick to your old ways, and max out your account again, allowing them to make even more money on your already high APR! Evil, right? As long as you continue to pay down your debts, and do not increase your spending - you'll be on your way to financial independence.
