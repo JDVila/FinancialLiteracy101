@@ -29,7 +29,7 @@
   * Basic Emergency Fund ($1,000)
   * Post-Debt Emergency Fund (3 to 6 months of Essential Expenses)
 * Invest More (15% to 25% Gross Income)
-  * Index Funds (No Fee / No Load) vs. Managed Funds
+  * Index Funds (No / Low Expense Fee  Ratio / No Load) vs. Managed Funds
   * 401k (minimum to at least company match)
   * Roth 401k
   * Rollover funds from previous jobs to IRA
@@ -232,12 +232,12 @@ It is recommended that no one invest their money until all debts are paid off, a
 
 This is because of something called inflation - or the general increase in prices, and the fall in the purchasing value of money. This means that as the price of items increases over time, a consumer's buying power decreases over time as well. In real terms - if a person left $100 in a no-interest checking account for the next 40 years, at an estimated inflation rate of 2.5 percent, in the year 2060 that $100 would actually have about the same buying power as $37 dollars in today's economy! This is why it's important to increase the rate at which your savings can grow, to well above the rate of inflation.
 
-### Index Funds (No Fee / No Load) vs. Managed Funds
+### Index Funds (No / Low Expense Fee  Ratio, No Load) vs. Managed Funds
 Although individual stocks and bonds, when picked correctly, can be quite profitable in both the short and long term, the truth is that no one who is not regularly watching the market and digesting stock news hourly can accurately time the market. Companies like Acorns, Stash, and Robin Hood make money by charging you fees on small stock purchases which will likely turn-up as a wash in a few years.
 
 This is why most (if not all) retirement plans tend to have a more diversified portfolio in the form of ***mutual funds*** for long-term investments, to ride out market volatility. A mutual fund is an account that is actively managed by a financial advisor on your behalf, and includes a number of financial assets, usually publically traded assets like stock and bonds, to manage risk and increase the chances of the investment growing reliably over time. However, managed funds tend to cost more in fees, and any gains above inflation may be eaten away by these additional fees. In fact, for all the supposed work that they do, these "managed" funds tend to rarely (if ever) beat the general growth rate of the market over the long term, which is about a 5%-to-10% rate-of-return depending on which years you measure. In fact, the market can be so volatile that even professional fund managers often [can't beat an actual cat's random stock picks for a whole year!](https://www.npr.org/sections/money/2013/01/14/169326326/housecat-beats-investors-in-stock-market-challenge)
 
-This is why investment moguls like Jack Bogle, Warren Buffett, and Charlie Munger among others suggest that most investors stick with low to no fee, no-load index funds that follow the market over the long term, such as S&P 500 or Total Domestic Stock Market funds from Vanguard or Fidelity, which allow you to keep more of what you earn by avoiding unnecessary manager fees, and giving you the opportunity to reinvest your dividend earnings, leveraging the power of compound interest (the same compounding that credit card companies use to make a profit off of your debt!).
+This is why investment moguls like Jack Bogle, Warren Buffett, and Charlie Munger among others suggest that most investors stick with low to no Expense Ratio fee, no-load index funds that follow the market over the long term, such as S&P 500 or Total Domestic Stock Market funds from Vanguard or Fidelity, which allow you to keep more of what you earn by avoiding unnecessary manager fees, and giving you the opportunity to reinvest your dividend earnings, leveraging the power of compound interest (the same compounding that credit card companies use to make a profit off of your debt!).
 
 ### 401k (minimum to at least company match)
 If you are lucky enough to work for a company that offers a 401k, and you've already eliminated debt and maxed out your emergency funds, take advantage of this immediately. 401k accounts allow you to invest up to $19,500 of pre-tax, or gross income, per year into mutual/index funds. This means that the money you invest will grow tax-free, allowing you to invest more than you would have been able to with after-tax money. This also lowers your ***taxable income rate***, which means you are incentivized to invest, since it might drop you to a lower tax bracket, allowing you to pay even fewer taxes per year!
