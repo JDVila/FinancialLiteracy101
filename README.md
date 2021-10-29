@@ -33,6 +33,7 @@
   * 401k (minimum to at least company match)
   * Roth 401k
   * Rollover funds from previous jobs to IRA
+  * Bridge Account (Taxable Brokerage Account)
 * Dream Big(ger)
 
 ## Disclaimer
@@ -253,6 +254,10 @@ A Roth 401k is different from a traditional 401k, in that instead of allowing yo
 You might have invested in a 401k in your previous job, and forgotten about it. It might have even grown in value since you last invested in it. However, it may be investing in mutual funds with high fees that are slowly but surely cutting into any gains you might receive from the actual investment. This is why it makes sense to rollover the funds from that old 401k account, into an IRA that you yourself control.
 
 Both 401k's and IRA's are effectively identical in pre-tax benefit except that they vary in who controls them, and how much you're allowed to invest per year. A 401k is a product that your employer offers to you as a part of your overall compensation package, while an IRA is something you can buy from an investment back, which allows you to invest for rollover pretax earnings into an account with funds which you get to choose on your own. If you roll over your old 401k funds into an IRA through a company like Fidelity or Vanguard, you have the opportunuty to invest with lower fees and higher rates of return than you might have at your old company which is no longer adding income for you to that fund.
+
+### Bridge Account (Taxable Brokerage Account)
+
+Once you've maxed out your Roth IRA ($6000 per year) and your 401k ($19,000 without employer match per year), you may still have money left over every month to save or invest. If this is the case, you can put your money in a Taxable Brokerage account, often called a "Bridge" Account. It's called a bridge account because it can help to "bridge the gap" between now and your retirement by allowing you to invest money that will grow over time, and is also accessible to you whenever you want to buy or sell. Currently, you can only take money out of your 401k or Roth IRA at the age of retirement, not before (NEVER take a loan out on your retirement accounts!!!). However, in a taxable brokerage account, you can make a windfall, and retire early if you wanted to, without having to be age 59 or above!
 
 ## Dream Big(ger)
 Once you reached the point where you have increased your income, tracked your budget, cut unnecessary expenses, saved up a minimum emergency fund of $1,000, eliminated your debt, increased your emergency fund to 3-to-6 months of essential expenses, maxed out your Roth accounts, and exceeded your employer match for your 401k (and maxed that out as well), and selected low-to-no fee / no load index funds tracking the market average, and rolled over any external 401k's/403b's from previous jobs into an IRA completely under your control - you're well on your way reaching or exceeding your goal of becoming financially independent. Now, any excess income you make outside of your savings, expenses, and investments is truly yours to spend - you can change your living situation from a room to an apartment, maybe even a condo or a house. You can, like me, pay for a masters degree entirely in cash, or plan a guilt-free vacation without worrying about breaking the bank, getting back into debt, or sacrificing your future. Just remember, it all started with earning more, spending less than you earn, eliminating debt, and saving the rest!
